@@ -1,5 +1,4 @@
 import yfinance as yf
-
 import datetime as dt
 import requests
 
